@@ -4,7 +4,7 @@ import './App.css'
 import Login from './Pages/Login'
 import img1 from './images/icon.png'
 
-function Home() {
+export default function Home() {
   return (
     <>
       <div>
@@ -21,4 +21,3 @@ function Home() {
     </>
   )
 }
-export default Home
