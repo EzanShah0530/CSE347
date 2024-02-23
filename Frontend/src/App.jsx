@@ -8,7 +8,8 @@ export default function App() {
   return (
     <>
     <div>
-      
+    <span class="item_outer_show" id="item_outer_show">
+    <span class="item_text">Home</span><i class="mkdf-menu-arrow fa fa-angle-down"></i></span>
     </div>
       <div>
         <marquee className="custom-marquee">
