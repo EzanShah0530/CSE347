@@ -4,9 +4,12 @@ import './App.css'
 import Login from './Pages/Login'
 import img1 from './images/icon.png'
 
-export default function Home() {
+export default function App() {
   return (
     <>
+    <div>
+      
+    </div>
       <div>
         <marquee className="custom-marquee">
           <h1>
