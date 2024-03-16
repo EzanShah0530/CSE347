@@ -30,4 +30,20 @@ body{
 .title{
   color: blue;
 }
+/* Style for the navigation menu */
+.mkdf-main-menu {
+  /* Add your styles here */
+}
+
+/* Style for the drop-down menu */
+.second {
+  display: none; /* Hide the submenu by default */
+  /* Add your styles for the drop-down menu here */
+}
+
+/* Show the submenu on hover */
+.menu-item-has-children:hover .second {
+  display: block;
+}
+
 
